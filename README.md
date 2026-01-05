@@ -26,5 +26,5 @@ CQF 2026 Plan
 				* Stratification and Supplemental Data
 				* Supporting Evidence
 				* Continuous Variable Measures
-Ratio of Continuous Variable Measures (Risk Adjustment)<img width="648" height="517" alt="image" src="https://github.com/user-attachments/assets/0c5e2979-26c4-4870-814d-55eaddec1d7c" />
+    			* Ratio of Continuous Variable Measures (Risk Adjustment)
 
