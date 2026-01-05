@@ -9,22 +9,22 @@ CQF 2026 Plan
         * FHIRPath Parity
         * CQL Engine Parity
         * CQF Stack and VS Code Plugin
-		* Support Use of Any FHIR IG
-				* Publish US CQL Errata
-				* Publish QI Core Errata
-				* Build DerivedModelInfoProvider
-				* CQF Stack, Publisher, and VS Code Plugin
-			* Port CQF Engine to KMP
-		* Reuse
-			* Establish Process for Standard Data Elements
-				* Publication Cycle?
-		* Content
-			* Support Standard Guideline Development and Adoption
-				* Update WHO ANC to use latest patterns and tooling
-				* Establish CQF Player project using Android FHIR SDK
-			* Support Adoption of Standard Representation of Quality Measures
-				* Stratification and Supplemental Data
-				* Supporting Evidence
-				* Continuous Variable Measures
+    * Support Use of Any FHIR IG
+		* Publish US CQL Errata
+		* Publish QI Core Errata
+		* Build DerivedModelInfoProvider
+		* CQF Stack, Publisher, and VS Code Plugin
+	* Port CQF Engine to KMP
+* Reuse
+	* Establish Process for Standard Data Elements
+		* Publication Cycle?
+* Content
+	* Support Standard Guideline Development and Adoption
+		* Update WHO ANC to use latest patterns and tooling
+		* Establish CQF Player project using Android FHIR SDK
+	* Support Adoption of Standard Representation of Quality Measures
+		* Stratification and Supplemental Data
+		* Supporting Evidence
+		* Continuous Variable Measures
     			* Ratio of Continuous Variable Measures (Risk Adjustment)
 
