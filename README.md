@@ -17,6 +17,9 @@ CQF 2026 Plan
 	* Port CQF Engine to KMP
 * Reuse
 	* Establish Process for Standard Data Elements
+        * https://hl7.org/fhir/uv/cql/Library-FHIRCommon.html
+        * https://hl7.org/fhir/us/cql/Library-USCoreCommon.html
+        * https://hl7.org/fhir/us/cql/Library-USCoreElements.html
 		* Publication Cycle?
 * Content
 	* Support Standard Guideline Development and Adoption
@@ -26,5 +29,5 @@ CQF 2026 Plan
 		* Stratification and Supplemental Data
 		* Supporting Evidence
 		* Continuous Variable Measures
-    * Ratio of Continuous Variable Measures (Risk Adjustment)
+        * Ratio of Continuous Variable Measures (Risk Adjustment)
 
