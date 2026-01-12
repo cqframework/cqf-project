@@ -22,6 +22,7 @@ CQF 2026 Plan
         * https://hl7.org/fhir/us/cql/Library-USCoreElements.html
 		* Publication Cycle?
 * Content
+    * FHIR Clinical Guides STU3
 	* Support Standard Guideline Development and Adoption
 		* Update WHO ANC to use latest patterns and tooling
 		* Establish CQF Player project using Android FHIR SDK
