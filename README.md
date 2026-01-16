@@ -14,7 +14,7 @@ CQF 2026 Plan
 		* Publish QI Core Errata
 		* Build DerivedModelInfoProvider
 		* CQF Stack, Publisher, and VS Code Plugin
-	* Port CQF Engine to KMP
+	* Support CQF Engine in CQF Player (using kmp-fhir from Google SDK)
 * Reuse
 	* Establish Process for Standard Data Elements
         * https://hl7.org/fhir/uv/cql/Library-FHIRCommon.html
@@ -28,7 +28,7 @@ CQF 2026 Plan
 		* Establish CQF Player project using Android FHIR SDK
 	* Support Adoption of Standard Representation of Quality Measures
 		* Stratification and Supplemental Data
-		* Supporting Evidence
+		* Supporting Evidence (note that implementation at scale is still being worked out, so this design may change)
 		* Continuous Variable Measures
         * Ratio of Continuous Variable Measures (Risk Adjustment)
 
