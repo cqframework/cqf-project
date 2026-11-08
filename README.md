@@ -33,6 +33,5 @@ CQF 2026 Plan
         * Ratio of Continuous Variable Measures (Risk Adjustment)
 
 
-https://bit.ly/3Wz3teT
-
+https://bit.ly/4iFUpfs
 
